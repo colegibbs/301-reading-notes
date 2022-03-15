@@ -8,7 +8,7 @@ Bassed off of the diagram, the render happens first.
 
 ### What is the very first thing to happen in the lifecycle of React?
 
-The constructor in the mounting phase is the first think to occur in the lifecycle. 
+The constructor in the mounting phase is the first think to occur in the lifecycle.
 
 ### Put the following things in the order that they happen: `componentDidMount`, `render`, `constructor`, `componentWillUnmount`, `React Updates`
 
