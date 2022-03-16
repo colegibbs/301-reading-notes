@@ -9,3 +9,5 @@ Welcome visitors! My name is Cole Gibs I'd like to personally welcome you to my 
 [Code 201 Reading Notes](https://colegibbs.github.io/201-reading-notes/)
 
 [Reading 02](/reading-02.md)
+
+[Reading 03](/reading-03.md)
