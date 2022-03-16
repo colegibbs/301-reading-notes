@@ -16,7 +16,7 @@ Key.
 
 ### What is the purpose of a key?
 
-Keys help react identify what item have been changed, added, or removed from the list. 
+Keys help react identify what item have been changed, added, or removed from the list.
 
 ## [Reading: The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
@@ -31,15 +31,15 @@ The spread operator is `...`.
 3. concatonating or combining arrays
 4. Adding to state in React
 
-### Give an example of using the spread operator to combine two arrays.
+### Give an example of using the spread operator to combine two arrays
 
 `let newArr = [...arrayOne, ...arrayTwo];`
 
-### Give an example of using the spread operator to add a new item to an array.
+### Give an example of using the spread operator to add a new item to an array
 
 `let newArr = [newItem, ...array];`
 
-### Give an example of using the spread operator to combine two objects into one.
+### Give an example of using the spread operator to combine two objects into one
 
 `let newOBJ = {...objOne, ...objTwo}`
 
@@ -51,7 +51,7 @@ Add the function to as a prop to the object from the child component.
 
 ### In your own words, what does the increment function do?
 
-The increment function is is counting how many times the add button is clicked. 
+The increment function is is counting how many times the add button is clicked.
 
 ### How can you pass a method from a parent component into a child component?
 
