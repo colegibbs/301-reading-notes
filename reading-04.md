@@ -4,7 +4,7 @@
 
 ### What is a ‘Controlled Component’?
 
-AN input form element whose value is controlled by React in a way that the react componenet contorls what happens on user input. 
+AN input form element whose value is controlled by React in a way that the react componenet contorls what happens on user input.
 
 ### Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why
 
