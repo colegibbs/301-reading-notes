@@ -16,7 +16,7 @@ It means that Node execute JS.
 
 ### What is npm?
 
-nmp is the node package manager. 
+nmp is the node package manager.
 
 ### What version of node are you running on your machine?
 
