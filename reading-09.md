@@ -39,4 +39,3 @@ module.export = what you want from module, then let variable = require('module')
 ### What do we have to do to make a module available?
 
 We have to export what functionality we want with module.export.
-
