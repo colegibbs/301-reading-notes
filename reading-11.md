@@ -2,8 +2,7 @@
 
 ## [Reading: nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
-### Fill in the chart below with five differences between SQL and NoSQL databases:
-
+### Fill in the chart below with five differences between SQL and NoSQL databases
 
 | SQL | NoSQL |
 |:----|:------|
@@ -59,7 +58,7 @@ It works through a collection full of documents.
 
 Inside is a collection that will be full of documents.
 
-### Which is more flexible - SQL or MongoDB? and why.
+### Which is more flexible - SQL or MongoDB? and why
 
 MongoDB is more flexible because it allows for no schema.
 
