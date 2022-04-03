@@ -6,7 +6,7 @@
 
 "OAuth is an open-standard authorization protocol or framework that describes how unrelated servers and services can safely allow authenticated access to their assets without actually sharing the initial, related, single logon credential."
 
-### Give an example of what using OAuth would look like.
+### Give an example of what using OAuth would look like
 
 When you log onto a site and it allow you to sign in using a thrid party like Google or Facebook, that is Oauth.
 
@@ -30,7 +30,7 @@ Authorization Code Flow is the flow of the token the user is given. This must us
 
 ### What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
 
-It is very similar to authorization code flow but there is a differnet step that uses a proof key. 
+It is very similar to authorization code flow but there is a differnet step that uses a proof key.
 
 ### What is Implicit Flow with Form Post?
 
